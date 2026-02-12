@@ -1,5 +1,5 @@
 @echo off
-title PC Inventory Collector
+title System Intelligence
 echo ---------------------------------------------------
 echo Collecting System Data... Please wait.
 echo ---------------------------------------------------
